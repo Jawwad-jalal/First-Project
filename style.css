@@ -1,0 +1,39 @@
+#title{color:darkblue; background-color:lightblue;
+       border:yellow soild 15px
+       padding-top:5px;
+       text-align:center;
+       font-weight:bold;
+       font-size: 40px;}
+
+.context{color:turquoise;
+         background-color:lightslategray;
+         border:pink soild 5px;
+         padding:4px;
+         margin:8px;
+         font-weight:bold;
+         font-size:11px}
+
+
+.header{color:turquoise;
+        border:grey soild 10px;
+        padding:4px;
+        margin:18px;
+        font-weight:bold;
+        font-weight:18px;}
+
+#quote{color:green;
+         border:black soild 10px;
+            padding:4px;
+            margin:4px;
+            font-weight:bold;
+            font-size:11px;}
+
+            #info{font-size:17px;}
+
+
+#mark{color:orange;
+      border:green soild 10px;
+      padding:4px;
+      margin:4px;
+      font-weight:bold;
+      font-size:18px;}
